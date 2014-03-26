@@ -20,3 +20,5 @@ There is none.
 #### Unavailable Data
 
 {{ inventory('arrest', 'unavailable') }}
+
+<br><br>
